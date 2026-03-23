@@ -36,10 +36,8 @@ If not installed, download it from: https://www.oracle.com/java/technologies/dow
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/user/i3_typing_master_2026.git
+git clone https://github.com/aovcheasin/i3_typing_master_2026.git
 ```
-
-> Replace `user` with the actual GitHub username.
 
 ### 2. Navigate into the project folder
 
@@ -60,9 +58,8 @@ javac *.java
 Or compile individually:
 
 ```bash
-javac Main.java
-javac Register.java
-javac Login.java
+javac TypingMasterMenu.java
+javac UserRegistration.java
 javac TypingTest.java
 ```
 
@@ -83,10 +80,9 @@ This launches the Welcome Menu where you can navigate to Login, Register, or sta
 ```
 i3_typing_master_2026/
 │
-├── Main.java           # Welcome / landing screen
-├── Register.java       # User registration screen
-├── Login.java          # User login / authentication screen
-├── ResetPassword.java  # User reset password screen
+├── TypingMasterMenu.java           # Welcome / landing screen
+├── UserRegister.java       # User registration screen
+├── UserResetPassword.java  # User reset password screen
 ├── TypingTest.java     # Typing test screen (multiple levels)
 ├── TestResults.java    # List of test results for a user
 ├── AboutUs.java        # About Us screen
