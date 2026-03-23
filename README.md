@@ -110,9 +110,9 @@ i3_typing_master_2026/
 
 | Name | Task |
 |------|------|
-| (Your Name) | Welcome menu screen |
-| (Classmate 1) | User registering screen |
-| (Classmate 2) | User login screen |
+| (AOV Cheasin) | Welcome menu screen |
+| (Piseth) | User registering screen |
+| (Picheth) | User login screen |
 
 > Update this table with actual names and tasks.
 
