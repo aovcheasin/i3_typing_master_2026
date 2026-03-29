@@ -1,4 +1,4 @@
-# I3 Typing Master 2026
+# I3 Typing Master 2026 (OK by Srengty)
 
 A command-line typing speed assessment application built in Java.  
 This project was developed as part of the Introduction to Programming Environment (IPE) course 2025-2026.
